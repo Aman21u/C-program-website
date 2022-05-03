@@ -1,0 +1,124 @@
+img{
+		border-radius: 70%;
+		position: fixed; top: 400px;
+
+	}
+
+h1{
+
+
+color: darkblue;
+
+background-color: salmon;
+text-align: center;
+}
+
+
+body{
+     font-family: source sans pro;
+      background-color: skyblue;
+}
+
+a{
+
+text-decoration: none;
+font-style: san-serif;
+padding-left: 20px;
+padding-right: 40px;
+color: whitesmoke;
+background-color: seagreen;
+border-radius: 60px;
+
+
+
+
+}
+
+
+
+
+i{
+
+
+
+	list-style: none;
+	margin: 80px 70px;
+	display: inline-block;
+   font-size: 90px;
+   border-radius: 60%;
+   transition: 0.5s;
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translate(-53%, -50%);
+}
+i:hover {
+
+color: #292929;
+border: 1px solid #292929;
+transition: .5s;
+
+
+}
+div.main{
+
+font-size: 50px;
+
+
+}
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  position: relative; top: 440px; right: -600px;
+  border-radius: 2000px;
+  background: transparent;
+
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+h3{
+
+
+position: relative; top: 270px; right: -620px;
+
+
+
+
+}
+h2{
+
+
+position: relative; top: 300px; right: -100px;
+color: white;
+background-color: lightslategrey;
+
+}
+h4{
+position: relative; top: 350px;
+
+
+}

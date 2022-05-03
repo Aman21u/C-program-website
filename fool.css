@@ -1,0 +1,34 @@
+body{
+
+background-image: url(file:///C:/Users/AMER/Downloads/ha.jpg);
+
+
+
+}
+h1{
+
+color: floralwhite;
+
+
+
+}
+div.back{
+
+
+
+
+
+  background-color: darkgreen;    
+  color: white;    
+  padding: 12px 20px;    
+  border: none;    
+  border-radius: 10px;    
+  cursor: pointer;    
+  float: right; 
+  position: relative; right: 1150px; top: 70px;
+
+}    
+    
+div.back:hover {    
+  background-color: #45a049;  
+  width: 70px;  }

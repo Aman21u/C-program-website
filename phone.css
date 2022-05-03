@@ -1,0 +1,32 @@
+a{
+
+font-style: san-serif;
+text-align: center;
+padding-left: 70px;
+padding-right: 40px;
+color: whitesmoke;
+top: 30px;
+background-color: seagreen;
+position: relative;
+border: none;
+float: right;
+border-radius: 10px;
+text-decoration: none;
+	
+}
+a:hover{
+
+background-color: grey;
+width: 100px;
+}
+body{
+background-image: url("file:///C:/Users/AMER/OneDrive/Desktop/website.jpg");
+
+}
+p{
+
+text-align: !important;
+position: fixed; left: 100px; top: 100px;
+
+
+}
